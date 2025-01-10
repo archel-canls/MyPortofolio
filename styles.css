@@ -139,7 +139,7 @@ h2 {
 .card-body {
     background-color: #000000;
     padding: 20px;
-    border-radius: 0 0 10px 10px;
+    border-radius: 0 0 7px 7px;
     height: 1-0px; /* Set fixed height for the card body */
     display: flex;
     flex-direction: column;
